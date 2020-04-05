@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rebekahkim.github.io/categories/</loc>
+    <loc>https://rebekahkim.github.io/about/</loc>
+    <lastmod>2020-04-06T01:53:42+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://rebekahkim.github.io/</loc>
+    <lastmod>2020-04-06T01:53:42+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rebekahkim.github.io/categories/</loc>
   </url>
   
   <url>
